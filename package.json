@@ -1,0 +1,17 @@
+{
+  "name": "ImDaBigBossGames",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "author": "ImDaBigBoss",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "nconf": "^0.11.3",
+    "socket.io": "^4.4.1"
+  }
+}
